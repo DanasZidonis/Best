@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{2A1E643F-7AC5-4B72-9E5F-181C2956A230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commander", "Commander\Commander.csproj", "{406833EE-BEE3-466C-A0D3-C3090FC05786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1E643F-7AC5-4B72-9E5F-181C2956A230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1E643F-7AC5-4B72-9E5F-181C2956A230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1E643F-7AC5-4B72-9E5F-181C2956A230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1E643F-7AC5-4B72-9E5F-181C2956A230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406833EE-BEE3-466C-A0D3-C3090FC05786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406833EE-BEE3-466C-A0D3-C3090FC05786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406833EE-BEE3-466C-A0D3-C3090FC05786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406833EE-BEE3-466C-A0D3-C3090FC05786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E8F77D-3AFC-44F2-AA5F-66F3FAF3F172}
+	EndGlobalSection
+EndGlobal
