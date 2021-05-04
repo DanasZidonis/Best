@@ -104,6 +104,7 @@ namespace Commander.Controllers
                 return NotFound();
             }
             _repository.DeleteCommand(commandModelFromRepo);
+            _repository.SaveChanges();
 
             return NoContent();
         }
